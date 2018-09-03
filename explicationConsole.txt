@@ -1,0 +1,12 @@
+commande git bash
+-cd dossier : nom du dossier repository dans lequel on veut bosser
+git status pour verifier le status de ce repository
+git init pour initialiser git
+touch nom fichier : pour ajouter un fichier
+git add pour ajouter le fichier
+git commit -m "ecrire le commit"
+ou git commit -am "ecri et enregistre le fichier"
+git log pour historique des commits
+ls pour liste des fichiers présents
+git push origin master; master si on est dans la branqhe master sinon on change le nom; pour mettre à jour sur github
+git pull origin master pour mettre à jour sur notre ordi
